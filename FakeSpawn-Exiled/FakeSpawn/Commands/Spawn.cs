@@ -53,7 +53,7 @@ namespace FakeSpawn.Commands
 
                 case "list":
                     {
-                        response = "List of groupings: \n1. mtf \n2. ci";
+                        response = "List of groupings: \n1.mtf \n2.ci";
                         return true;
                     }
                 default:
