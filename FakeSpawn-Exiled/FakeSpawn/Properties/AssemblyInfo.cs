@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FakeSpawn")]
-[assembly: AssemblyCopyright("MrAfitol ©  2021")]
+[assembly: AssemblyCopyright("MrAfitol ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

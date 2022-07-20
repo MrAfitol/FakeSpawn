@@ -7,9 +7,9 @@ namespace FakeSpawn
     {
         public override string Name => "FakeSpawn";
         public override string Prefix => "fake_spawn";
-        public override string Author => "MrAfitol";
-        public override Version Version => new Version(1, 0, 0);
-        public override Version RequiredExiledVersion => new Version(3, 0, 0);
+        public override string Author => "MrAfitol, fixed by wety_FoE";
+        public override Version Version => new Version(1, 0, 1);
+        public override Version RequiredExiledVersion => new Version(5, 2, 1);
 
         public static FakeSpawn Singleton;
 
